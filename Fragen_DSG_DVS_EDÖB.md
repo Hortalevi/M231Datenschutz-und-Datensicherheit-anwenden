@@ -1,4 +1,4 @@
-# Der DSV und EDÖP
+# Der DSV und EDÖB
 
 ---
 
