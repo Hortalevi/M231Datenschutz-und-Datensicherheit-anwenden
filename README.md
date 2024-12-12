@@ -1,6 +1,15 @@
 # M231Datenschutz-und-Datensicherheit-anwenden
 
 ## Levi Agostinho Horta
+
+##https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Grafische_Ablagekonzept.md
+
+##https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Git%C3%9Cbung_als_Ablage-_und_Versionsverwaltung_kennenlernen.md
+
+##https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Fragen_DSG_DVS_ED%C3%96B.md
+
+##https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Backend.md
+
 ## Aufgabe A: Was ist Git?
 
 **Git** ist ein verteiltes Versionskontrollsystem, das von **Linus Torvalds** entwickelt wurde, dem Schöpfer des Linux-Kernels. Es wurde erstmals im Jahr 2005 veröffentlicht.
@@ -95,10 +104,3 @@ git merge <branch-name>
 # Branch löschen
 git branch -d <branch-name>
 
-##https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Grafische_Ablagekonzept.md
-
-##https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Git%C3%9Cbung_als_Ablage-_und_Versionsverwaltung_kennenlernen.md
-
-##https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Fragen_DSG_DVS_ED%C3%96B.md
-
-##https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Backend.md
