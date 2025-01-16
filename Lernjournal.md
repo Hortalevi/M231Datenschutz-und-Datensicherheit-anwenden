@@ -28,6 +28,10 @@ Am fünften Tag konnte ich nicht teilnehmen, da ich krank war.
 
 Am sechsten Tag schloss ich die Arbeit an meinem Backup-Konzept ab und führte das Backup durch. Danach verbesserte ich meinen Passwort-Manager, um die Sicherheit meiner Daten weiter zu erhöhen.
 
+#### **Tag 7**
+
+Am siebten Tag haben wir uns ein Video über die verschiedenen Arten der Datenverschlüsselung angeschaut, dann haben wir den FIDO Auftrag und dann haben wir noch die Lizenzmodelle Auftrag gemacht.
+
 ---
 
 ### **Aufträge**
@@ -75,3 +79,15 @@ Am sechsten Tag schloss ich die Arbeit an meinem Backup-Konzept ab und führte d
 #### **Auftrag 6c**
 
 [Passwort-Manager einrichten](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Passwort_Manager.md?classId=baae2cf9-dd90-486c-9b8e-5882d5ed1ac1&assignmentId=89bfea96-26fb-4e5a-8383-5750e3e3133b&submissionId=3acfc1fb-0a7e-2fad-04fc-f2a5288f61de)
+
+#### **Auftrag 7a**
+
+[FIDO - Passwordless Authentication Process](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Fido_Anmeldeverfahren_ohne_Passw%C3%B6rter.md)
+
+#### **Auftrag 7b**
+
+[CrypTool](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/CrypTool.md)
+
+#### **Auftrag 9**
+
+[Lizenzmodelle](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Lizenzmodelle.md)
