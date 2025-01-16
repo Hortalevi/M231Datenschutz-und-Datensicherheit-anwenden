@@ -46,4 +46,4 @@ Zum Entschlüsseln habe ich **CrypTool2** verwendet. Dabei habe ich mich mit den
 Nach einigen Versuchen gelang es mir, den korrekten Schlüssel zu ermitteln und die Nachricht erfolgreich zu entschlüsseln. Diese Erfahrung hat mir verdeutlicht, dass die Caesar-Verschlüsselung zwar eine einfache Methode ist, jedoch mit modernen Werkzeugen leicht zu knacken.
 
 ![image](Bilder/crytool.png)
-![image](Bilder/crytool.png)
+![image](Bilder/crytool2.png)
