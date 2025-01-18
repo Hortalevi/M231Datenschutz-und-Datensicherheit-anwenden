@@ -13,7 +13,7 @@ Diese Einführung hat mir ein grundlegendes Verständnis vermittelt, wie Verschl
 
 ### 1. Auswahl der Nachricht  
 Für die Verschlüsselung habe ich die folgende Nachricht als Klartext (plaintext) ausgewählt:  
-`ErfolghatdreiBuchstabenTUNJohannWolfgangvonGoethe`  
+`Hallomeinnameistlevi`  
 
 Das Zitat betont die Bedeutung des eigenen Handelns für den Erfolg, was ich als inspirierend für die Aufgabe empfand.
 
@@ -25,7 +25,7 @@ Für die Verschlüsselung habe ich einen Schlüssel mit dem Wert **5** gewählt.
 
 ### 4. Verschlüsselung der Nachricht  
 Mit dem ausgewählten Schlüssel erzeugte das Tool die verschlüsselte Nachricht (Geheimtext/ciphertext):  
-`JwktqlmfyiwjnGzhmxyfgjsYZSOtmfssbtqklfslAtsLtjymj`
+`Ibmmpnfjoobnfjtumfwj`
 
 ### 5. Weitergabe der verschlüsselten Nachricht  
 Den Geheimtext habe ich anschließend an einen Klassenkameraden weitergeleitet, der gemäß der Klassenliste nach mir eingetragen ist.

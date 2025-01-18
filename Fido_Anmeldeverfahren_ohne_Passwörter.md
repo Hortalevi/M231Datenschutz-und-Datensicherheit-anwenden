@@ -38,13 +38,6 @@ Digitale Signaturen entstehen so:
 2. Die signierte Nachricht wird an den Server gesendet.
 3. Der Server nutzt den öffentlichen Schlüssel, um die Authentizität der Signatur zu prüfen und die Nachricht zu validieren.
 
-## Zeichnung
-
-Erstellen Sie eine Zeichnung mit folgenden Elementen:
-1. Ein Smartphone oder Sicherheitsschlüssel, der eine Herausforderung signiert.
-2. Ein Server, der die Signatur überprüft.
-3. Symbole für private und öffentliche Schlüssel (z. B. ein Schloss für den privaten Schlüssel und ein offenes Schloss für den öffentlichen Schlüssel).
-
 ## Was macht das FIDO-Verfahren so sicher?
 
 Das FIDO-Verfahren schützt vor Phishing, Passwortdiebstahl und anderen Angriffen, da keine Passwörter genutzt werden. Es setzt auf moderne Sicherheitsstandards wie starke Verschlüsselung und Multi-Faktor-Authentifizierung, die den Besitz eines Geräts und/oder biometrische Daten kombiniert.
