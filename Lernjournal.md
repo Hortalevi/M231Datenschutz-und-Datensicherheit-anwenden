@@ -32,6 +32,10 @@ Am sechsten Tag schloss ich die Arbeit an meinem Backup-Konzept ab und führte d
 
 Am siebten Tag haben wir uns ein Video über die verschiedenen Arten der Datenverschlüsselung angeschaut, dann haben wir den FIDO Auftrag und dann haben wir noch die Lizenzmodelle Auftrag gemacht.
 
+#### **Tag 8**
+
+Am achten Tag haben wir LB2 geschrieben, dann haben wir die Aufgaben 8a und 8b gemacht, ich habe gelernt, was Impressum in anderen Sprachen heisst und was Impressum bedeutet.
+
 ---
 
 ### **Aufträge**
@@ -87,6 +91,15 @@ Am siebten Tag haben wir uns ein Video über die verschiedenen Arten der Datenve
 #### **Auftrag 7b**
 
 [CrypTool](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/CrypTool.md)
+
+#### **Auftrag 8a**
+
+[Datenverlust durch gelöschte Backups und Archive](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Problematik%20von%20Datenl%C3%B6schungen.md)
+
+#### **Auftrag 8b**
+
+[Impressum, Disclaimer, AGB](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Impressum%2C%20Disclaimer%2C%20AGB.md)
+
 
 #### **Auftrag 9**
 
