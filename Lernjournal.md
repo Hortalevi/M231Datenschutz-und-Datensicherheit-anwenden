@@ -2,39 +2,87 @@
 
 ## Levi Horta
 
-### **Tagebuch**
+## **Inhaltsverzeichnis**  
+- [Tag 1 – Einführung in Datenschutz und GitHub-Einrichtung](#tag-1--einführung-in-datenschutz-und-github-einrichtung)  
+- [Tag 2 – Ablagekonzept zur besseren Organisation](#tag-2--ablagekonzept-zur-besseren-organisation)  
+- [Tag 3 – Podcast zum Datenschutzgesetz und Reflexion](#tag-3--podcast-zum-datenschutzgesetz-und-reflexion)  
+- [Tag 4 – Erstellung eines Backup-Konzepts](#tag-4--erstellung-eines-backup-konzepts)  
+- [Tag 5 – Krankheitsbedingte Abwesenheit](#tag-5--krankheitsbedingte-abwesenheit)  
+- [Tag 6 – Abschluss des Backup-Konzepts und Passwort-Manager-Optimierung](#tag-6--abschluss-des-backup-konzepts-und-passwort-manager-optimierung)  
+- [Tag 7 – Verschlüsselungstechniken und Lizenzmodelle](#tag-7--verschlüsselungstechniken-und-lizenzmodelle)  
+- [Tag 8 – Leistungsbewertung (LB2) und Impressum](#tag-8--leistungsbewertung-lb2-und-impressum)  
+- [Tag 9 – KI-Systeme und Datenschutzanfragen](#tag-9--ki-systeme-und-datenschutzanfragen)  
+- [Aufträge](#aufträge)  
+- [Fazit](#fazit)
+---
 
-#### **Tag 1**
+## **Tag 1 – Einführung in Datenschutz und GitHub-Einrichtung**  
 
-Am ersten Tag gab es eine Einführung in das Thema Datenschutz und Datensicherheit. Wir richteten GitHub oder GitLab ein. Ich entschied mich für GitHub, da ich bereits Erfahrung damit hatte.
+Am ersten Tag erhielten wir eine Einführung in das Thema Datenschutz und Datensicherheit. Wir besprachen die grundlegenden Konzepte und die Bedeutung des Schutzes persönlicher Daten, insbesondere im digitalen Raum. Danach richteten wir GitHub oder GitLab ein, um unsere Projekte und Dateien sicher zu verwalten.  
 
-#### **Tag 2**
+Ich entschied mich für GitHub, da ich bereits Erfahrung damit hatte und die Benutzeroberfläche sowie die Funktionen gut kenne. Während der Einrichtung lernten wir auch, wie man Repositories erstellt, Commits durchführt und Branches nutzt, um effizient mit Code zu arbeiten.  
 
-Am zweiten Tag erstellten wir ein eigenes Ablagekonzept für unsere Daten, um eine strukturierte Organisation zu gewährleisten.
+---
 
-#### **Tag 3**
+## **Tag 2 – Ablagekonzept zur besseren Organisation**  
 
-Am dritten Tag hörten wir einen Podcast zum Datenschutzgesetz. Im Anschluss beantworteten wir Fragen zu den darin behandelten Themen.
+Am zweiten Tag beschäftigten wir uns mit der strukturierten Organisation unserer Daten. Dazu erstellten wir ein eigenes Ablagekonzept, das sicherstellen sollte, dass unsere Dateien geordnet und leicht auffindbar sind.  
 
-#### **Tag 4**
+Ich überlegte mir eine sinnvolle Ordnerstruktur und einheitliche Dateibenennungen, um Verwirrung und Datenverlust zu vermeiden. Besonders wichtig war es, zwischen persönlichen, sensiblen und öffentlich zugänglichen Daten zu unterscheiden, um den Datenschutzbestimmungen gerecht zu werden.  
 
-Am vierten Tag begannen wir damit, ein eigenes Backup-Konzept zu erstellen. Zuerst lasen wir einen Text zu diesem Thema, zu dem wir dann Fragen beantworten mussten.
+---
 
-#### **Tag 5**
+## **Tag 3 – Podcast zum Datenschutzgesetz und Reflexion**  
 
-Am fünften Tag konnte ich nicht teilnehmen, da ich krank war.
+Am dritten Tag hörten wir uns einen Podcast zum Datenschutzgesetz an. Der Podcast behandelte die rechtlichen Grundlagen, aktuelle Entwicklungen und praktische Anwendungen des Datenschutzes im Alltag.  
 
-#### **Tag 6**
+Besonders interessant fand ich die Abschnitte, in denen erklärt wurde, welche Rechte Nutzer gegenüber Unternehmen haben, wenn es um den Schutz ihrer Daten geht. Nach dem Podcast beantworteten wir Fragen zu den wichtigsten Themen, um unser Verständnis zu vertiefen.  
 
-Am sechsten Tag schloss ich die Arbeit an meinem Backup-Konzept ab und führte das Backup durch. Danach verbesserte ich meinen Passwort-Manager, um die Sicherheit meiner Daten weiter zu erhöhen.
+---
 
-#### **Tag 7**
+## **Tag 4 – Erstellung eines Backup-Konzepts**  
 
-Am siebten Tag haben wir uns ein Video über die verschiedenen Arten der Datenverschlüsselung angeschaut, dann haben wir den FIDO Auftrag und dann haben wir noch die Lizenzmodelle Auftrag gemacht.
+Am vierten Tag begannen wir damit, ein eigenes Backup-Konzept zu erstellen. Dazu lasen wir zunächst einen ausführlichen Text über verschiedene Backup-Strategien, darunter die 3-2-1-Regel, Cloud-Backups und lokale Sicherungen.  
 
-#### **Tag 8**
+Nach der Lektüre beantworteten wir Fragen zum Thema, um unser Wissen zu vertiefen. Anschliessend plante ich mein persönliches Backup-System und entschied mich für eine Kombination aus externer Festplatte und Cloud-Speicher.  
 
-Am achten Tag haben wir LB2 geschrieben, dann haben wir die Aufgaben 8a und 8b gemacht, ich habe gelernt, was Impressum in anderen Sprachen heisst und was Impressum bedeutet.
+---
+
+## **Tag 5 – Krankheitsbedingte Abwesenheit**  
+
+Am fünften Tag konnte ich nicht am Unterricht teilnehmen, da ich krank war.  
+
+---
+
+## **Tag 6 – Abschluss des Backup-Konzepts und Passwort-Manager-Optimierung**  
+
+Am sechsten Tag setzte ich meine Arbeit am Backup-Konzept fort und führte die erste vollständige Sicherung meiner Daten durch. Dabei stellte ich sicher, dass meine Backup-Strategie sowohl automatische als auch manuelle Sicherungen umfasste.  
+
+Nach dem erfolgreichen Backup optimierte ich ausserdem meinen Passwort-Manager, indem ich schwache oder doppelt verwendete Passwörter durch sichere, einzigartige Kombinationen ersetzte. Dadurch konnte ich die Sicherheit meiner Daten weiter erhöhen.  
+
+---
+
+## **Tag 7 – Verschlüsselungstechniken und Lizenzmodelle**  
+
+Am siebten Tag schauten wir uns ein Video über verschiedene Arten der Datenverschlüsselung an. Ich lernte, wie symmetrische und asymmetrische Verschlüsselungsverfahren funktionieren und welche Methoden für verschiedene Anwendungsbereiche geeignet sind.  
+
+Anschliessend bearbeiteten wir den **FIDO-Auftrag**, in dem wir uns mit sicheren Authentifizierungsverfahren wie FIDO2 und WebAuthn befassten. Zum Schluss beschäftigten wir uns mit **Lizenzmodellen**, insbesondere mit den Unterschieden zwischen Open-Source- und proprietären Lizenzen.  
+
+---
+
+## **Tag 8 – Leistungsbewertung (LB2) und Impressum**  
+
+Am achten Tag schrieben wir die **Leistungsbewertung 2 (LB2)**. Danach bearbeiteten wir die Aufgaben 8a und 8b, die sich mit rechtlichen Aspekten des Datenschutzes befassten.  
+
+Während der Aufgaben lernte ich, was ein Impressum ist, welche Informationen es enthalten muss und wie es sich in anderen Ländern unterscheidet. Besonders interessant fand ich die Unterschiede zwischen den Impressumspflichten in Deutschland, der Schweiz und anderen europäischen Ländern.  
+
+---
+
+## **Tag 9 – KI-Systeme und Datenschutzanfragen**  
+
+Am neunten Tag schrieben wir eine Aufgabe zu **KI-Systemen** und deren Kosten. Dabei verglichen wir verschiedene Anbieter und deren Preismodelle, um zu verstehen, wie Unternehmen künstliche Intelligenz monetarisieren.  
+
+Danach verfassten wir einen **Brief an eine Firma**, um die Herausgabe persönlicher Daten gemäss Datenschutz-Grundverordnung (DSGVO) zu fordern. Ich lernte, welche Formulierungen wichtig sind und welche Rechte Nutzer haben, wenn sie ihre Daten von Unternehmen zurückfordern möchten.  
 
 ---
 
@@ -104,3 +152,23 @@ Am achten Tag haben wir LB2 geschrieben, dann haben wir die Aufgaben 8a und 8b g
 #### **Auftrag 9**
 
 [Lizenzmodelle](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Lizenzmodelle.md)
+
+#### **Auftrag 9b**
+
+[KI-Tools - DeepSeek / ChatGPT / Gemini / Copilot](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/KI-Tools_DeepSeek_ChatGPT_Gemini_Copilot.md)
+
+#### **Auftrag 9c**
+
+[Bitte um Datenausgabe Brief](https://github.com/Hortalevi/M231Datenschutz-und-Datensicherheit-anwenden/blob/main/Bitte_um_Datenausgabe_levi_agostinho_horta.pdf)
+
+---
+
+## **Fazit**  
+
+Während des Kurses habe ich viele wichtige Aspekte des Datenschutzes kennengelernt. Besonders wertvoll fand ich die praktischen Übungen zu **Backup-Strategien, Passwort-Management und Verschlüsselungstechniken**, da sie mir geholfen haben, meine persönlichen Daten besser zu schützen.  
+
+Auch die rechtlichen Aspekte, wie das **Datenschutzgesetz, Impressumspflichten und die Rechte der Nutzer gegenüber Unternehmen**, waren sehr aufschlussreich. Das Schreiben eines **DSGVO-Anfragebriefes** hat mir gezeigt, wie ich meine eigenen Daten aktiv schützen und verwalten kann.  
+
+Insgesamt hat mir der Kurs geholfen, ein **besseres Verständnis für Datenschutz und Datensicherheit** zu entwickeln und meine digitalen Gewohnheiten zu verbessern.  
+
+---
